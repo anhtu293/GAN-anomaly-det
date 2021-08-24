@@ -1,0 +1,6 @@
+data/
+data_dev/
+core
+notebooks/
+work_dirs/*
+*.png
